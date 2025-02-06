@@ -1,38 +1,5 @@
 
-/*------------------------------------*\
-    Table of contents
-\*------------------------------------*/
 
-/*------------------------------------------------
-
-CSS STRUCTURE:
-
-1. VARIABLES
-
-2. GENERAL TYPOGRAPHY
-  2.1 Padding
-  2.2 Offcanvas
-  2.3 Button
-  2.4 Svg
-  2.5 Swiper
-  2.6 Form
-  2.7 Breadcrumb
-  2.8 Pagination
-  2.9 Accordion
-
-3. SITE STRUCTURE
-  3.1 Header Section
-  3.2 Expersite Section
-
-4. Pages Style
-  4.1 Service page
-  4.2 Projects Page
-    
-
-  
-/*--------------------------------------------------------------
-/** 1. VARIABLES
---------------------------------------------------------------*/
 :root {
   /* widths for rows and containers
        */
